@@ -1,0 +1,29 @@
+이번주 소식
+SEC Probes Investment Advisers’ Use of AI
+Artificial: The OpenAI Story
+서버 없이 그라디오(Gradio) 앱 만들기
+
+---------------------------------------
+
+
+SEC Probes Investment Advisers’ Use of AI
+The Securities and Exchange Commission is asking investment advisers how they use and oversee artificial intelligence, as agency head Gary Gensler continues to express skepticism about the technology.
+https://www.wsj.com/tech/ai/artificial-the-openai-story-21587cbd?mod=ai_news_article_pos1
+
+[[Gary Gensler]]	https://www.google.com/search?q=Gary+Gensler&oq=Gary+Gensler&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM4N2owajGoAgCwAgA&sourceid=chrome&ie=UTF-8
+------------------
+Artificial: The OpenAI Story
+A podcast series about how a little-known startup built one of the world’s most viral tech products…and nearly tore itself apart in the process.
+-뉴스 주소-
+
+[[openai]]		오픈AI(OpenAI)는 프렌들리 AI를 제고하고 개발함으로써 전적으로 인류에게 이익을 주는 것을 목표로 하는 미국의 인공지능 연구소이다.
+------------------
+서버 없이 그라디오(Gradio) 앱 만들기
+🫐챗GPT의 요약(테스트): 'Gradio-Lite'는 파이썬으로 작성된 그라디오 앱을 웹 브라우저에서 실행할 수 있게 해주는 라이브러리로, 별도의 서버 설정 없이 머신러닝 앱을 웹에서 간편하게 실행할 수 있습니다.
+
+©gradio
+웹 브라우저 환경에서 그라디오(Gradio) 앱을 실행시킬 수 있도록 지원하는 라이브러리 'Gradio-Lite'를 소개합니다. 그라디오는 AI 그림, 챗봇 등 다채로운 분야의 머신러닝 앱을 만드는 데 사용되고 있는데요. 서버 환경을 구성해야 한다는 단점이 있어요. 그래서 많은 머신러닝 앱 개발자들은 설치 코드를 제공해 사용자가 로컬 서버에서 앱을 실행하도록 하거나, 허깅페이스 Spaces에 업로드하는 방법을 선택하고 있죠. 'Gradio-Lite'는 웹어셈블리(WebAssembly)를 기반으로 하는 라이브러리 'Pyodide'를 활용해서, 파이썬으로 구현된 그라디오 코드가 웹 브라우저에서 실행될 수 있도록 합니다. 간단한 그라디오 앱 이외에도 'Transformers.js.py' 라이브러리를 추가해 딥러닝을 활용한 앱도 실행할 수 있으니, 님도 관심이 있다면 아래 링크를 참고해 주세요!
+Gradio-Lite: Serverless Gradio Running Entirely in Your Browser
+
+------------------
+AI.
